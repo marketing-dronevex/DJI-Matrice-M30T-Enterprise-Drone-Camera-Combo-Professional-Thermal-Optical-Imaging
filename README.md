@@ -1,2 +1,4 @@
-# DJI-Matrice-M30T-Enterprise-Drone-Camera-Combo-Professional-Thermal-Optical-Imaging
-The DJI Matrice M30T Enterprise Drone Camera Combo is a mission-critical platform for professional inspection, search &amp; rescue, and mapping operations.
+DJI Matrice M30T Enterprise Drone Camera Combo: Professional Thermal & Optical Imaging
+
+The DJI Matrice M30T Enterprise Drone Camera Combo is a mission-critical platform for professional inspection, search & rescue, and mapping operations. It features an advanced triple-camera system including a 12MP wide-angle, 48MP zoom, and 640×512px thermal imaging with laser rangefinder for precise distance measurement. With RTK-enabled centimeter-level positioning accuracy and omnidirectional obstacle sensing, it ensures reliable operation in complex environments. The drone delivers up to 41 minutes flight time, operates in extreme temperatures (-20° to 50°C), and maintains IP55 weather resistance for durability. Its 7 km transmission range and intelligent flight modes make it indispensable for professional enterprise applications worldwide.
+Explore more: https://dronevex.in/product/dji-matrice-m30t-enterprise-drone-camera-combo/
